@@ -1,0 +1,47 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-family: 'Indie Flower', cursive;
+}
+
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail{
+    padding: 0;
+}
+
+.thumbnail .caption-full{
+    padding: 9px;
+}
+
+.delete-form{
+    display: inline;
+}
+
+/* font-family: 'Indie Flower', cursive;
+font-family: 'Open Sans', sans-serif; */
+
+.btn-success{
+    background-color: #36994e;
+    border: none;
+}
+
+.btn-success:hover{
+    background-color:#215e30;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+}
+
+.jumbotron{
+    background-image: url(https://i.picsum.photos/id/810/300/200.jpg?hmac=0Y058s-Pzj5K_ibxNVGNX-kzjxSiflJd1L-GZye3xjo);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
